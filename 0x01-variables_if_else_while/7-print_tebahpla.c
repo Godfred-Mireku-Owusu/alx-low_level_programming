@@ -1,10 +1,12 @@
 #include <stdio.h>
 /**
- * Main - tebahpla
- *
- * Return: Always 0 (Success)
- */
-
+* Main - tebahpla
+*
+*Description: 'the description is here'
+*
+* Return: Always 0 (Success)
+*
+*/
 int main(void)
 {
 int i;
