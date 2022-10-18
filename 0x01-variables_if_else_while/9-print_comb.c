@@ -14,7 +14,11 @@ int x;
 for (x = 48; x <= 57; x++)
 {
 putchar(x);
+while (x < 57)
+{
 putchar(44);
+break;
+}
 putchar(' ');
 }
 return (0);
