@@ -1,6 +1,8 @@
 #include <stdio.h>
-/** 
- * Main - tebahpla 
+/**
+ * main - Entry point
+ *
+ * Description: prints the lowercase alphabet in reverse
  *
  * Return: Always 0 (success)
  */
