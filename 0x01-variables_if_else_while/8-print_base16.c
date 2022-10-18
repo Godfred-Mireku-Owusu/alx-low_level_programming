@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* Main - tebahpla
+* main - tebahpla
 *
-*Description: 'the description is here'
+* Description: prints all the numbers in lowercase, followed by a new line
 *
 * Return: Always 0 (Success)
 */
