@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* Main - tebahpla
+* Main - print_comb.c
 *
 *Description: 'the description is here'
 *
@@ -11,11 +11,11 @@ int main(void)
 {
 int x;
 
-for (x = 48; x <= 57; x++) 
-{ 
+for (x = 48; x <= 57; x++)
+{
 putchar(x);
 putchar(44);
 putchar(' ');
-} 
-return (0);  
+}
+return (0);
 }
