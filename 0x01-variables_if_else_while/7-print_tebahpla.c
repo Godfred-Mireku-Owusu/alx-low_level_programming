@@ -1,17 +1,14 @@
 #include <stdio.h>
-/**
-* Main - tebahpla
-*
-*Description: 'the description is here'
-*
-* Return: Always 0 (Success)
-*
-*/
+/** 
+ * Main - tebahpla 
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
-int i;
+	int i;
 
-for (i = 'z'; i >= 'a'; i--)
-putchar(i);
-return (0);
+	for (i = 'z'; i >= 'a'; i--)
+		putchar(i);
+	return (0);
 }
