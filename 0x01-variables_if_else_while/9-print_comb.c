@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* Main - print_comb.c
+* main - Entry point
 *
-*Description: 'the description is here'
+* Description: prints all possible combinations of single-digit numbers
 *
-* Return: Always 0 (Success)
+* Return: 0 (Success)
 */
 int main(void)
 {
