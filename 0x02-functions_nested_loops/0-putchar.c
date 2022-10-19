@@ -1,0 +1,12 @@
+#include <std.io>
+
+/**
+ * main - prints _putchar, followed by a new line.
+ *
+ * Return: Always 0 (Succes)
+ */
+int main(void)
+}
+printf("_putchar\n");
+	return (0);
+}
