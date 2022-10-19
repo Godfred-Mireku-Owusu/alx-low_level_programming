@@ -4,7 +4,7 @@
  * main - print the lowercase alphabet with _putchar.
  *
  * Return: void
- :*/
+ */
 
 void print_alphabet(void);
 {
@@ -15,6 +15,6 @@ void print_alphabet(void);
 		_putchar(alphabet);
 		alphabet++;
 	}
-    _putchar(10);
+_putchar(10);
 
 }
